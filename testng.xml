@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/aravindanathdm/Documents/SelCode/Selenium Code/OpenCart_POM_23Apr22/src/test/java/testScripts/TC_Lgn_001.java">
+        <classes>
+            <class name="testScripts.TC_Lgn_001"/>
+
+            <class name="testScripts.TC_Lgn_002"/>
+
+            <class name="testScripts.TC_Lgn_003"/>
+
+            <class name="testScripts.TC_Prod_002"/>
+
+        </classes>
+    </test>
+</suite>
